@@ -1,2 +1,20 @@
-# MSSQLTips
-Some materials I have contributed to MSSQLTips
+# MSSQLTips Python Articles
+My Collection of articles I wrote for [MSSQLTips.com](https://www.mssqltips.com/):
+
+1. [Why use Python?](https://www.mssqltips.com/sqlservertip/7071/python-for-data-professionals/)
+2. [How to Get Started Using Python using Anaconda, VS Code, Power BI and SQL Server](https://www.mssqltips.com/sqlservertip/7105/setting-up-python-environment-with-anaconda-vs-code-power-bi-sql-server/)
+3. [Python Basic Built-in Data Types](https://www.mssqltips.com/sqlservertip/7126/learn-python-data-types/)
+4. [Learn Python Complex Built-in Data Types including List, Tuple, Range, Dictionary and Set](https://www.mssqltips.com/sqlservertip/7127/python-list-tuple-range-dictionary-and-set-data-type-examples/)
+5. [Python List Comprehension for Lists, Tuples, Dictionaries and Sets](https://www.mssqltips.com/sqlservertip/7155/python-list-comprehension-lists-tuples-dictionaries-sets/)
+6. [How to Define and Call Functions in Python](https://www.mssqltips.com/sqlservertip/7169/python-function-parameters-nested-functions-scope-rules-lambda-functions/)
+7. [Learn Python Control Flow Logic including IF, ELIF and ELSE](https://www.mssqltips.com/sqlservertip/7173/python-if-else-control-flow-logic/)
+8. [Learn Python Loops Including FOR, WHILE, Nested and more](https://www.mssqltips.com/sqlservertip/7191/python-loops-for-while-nested/)
+9. [15 Important Built-in Python Functions](https://www.mssqltips.com/sqlservertip/7217/functions-in-python-code-samples/)
+10. [Python Iterable vs Iterator vs Generator with Sample Code](https://www.mssqltips.com/sqlservertip/7227/iterable-python-python-iterator-python-generator-examples/)
+11. [Getting Started with Statistics using Python](https://www.mssqltips.com/sqlservertip/7242/python-statistics-mean-median-mode-min-max-range-variance-standard-deviation-correlation/)
+12. [Python Try Except Code Samples](https://www.mssqltips.com/sqlservertip/7276/python-try-except-examples/)
+13. [How to Query SQL Data with Python pyodbc](https://www.mssqltips.com/sqlservertip/7293/pyodbc-open-source-access-odbc-databases/)
+14. [Query SQL Server with Python and Pandas](https://www.mssqltips.com/sqlservertip/7324/python-pandas-read-sql-server-data-dataframe/)
+15. [Python Built-in Statistics Functions using SQL Server Data](https://www.mssqltips.com/sqlservertip/7333/python-functions-median-quantiles-variance-stdev-correlation/)
+16. [Getting Started with Python Pandas and Dataset Profiling](https://www.mssqltips.com/sqlservertip/7342/reading-and-profiling-data-with-python-pandas/)
+17. [Anaconda Python Installation and Management for Various Projects](https://www.mssqltips.com/sqlservertip/7370/anaconda-python-installation-package-management/)
