@@ -1,0 +1,1 @@
+code for tip 13 "How to Query SQL Data with Python pyodbc"
