@@ -1,0 +1,1 @@
+code for the tip "Python Built-in Statistics Functions using SQL Server Data"
